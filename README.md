@@ -1,2 +1,1 @@
-# tindog
-web about meet dogs
+TinDog Starting Files
